@@ -1,0 +1,6 @@
+venv/
+DS_Store
+.ipynb_checkpoints
+videogames_reviews.csv
+analisis_videojuegos_resultados.csv
+.env
